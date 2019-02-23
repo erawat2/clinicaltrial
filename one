@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Clinical Trials</title>
+	<style type="text/css">
+	body {
+		background-color: ghostwhite;
+	}
+	h1 {
+		font-size: 300%;
+		color: navy;
+		text-align: center;
+	}
+	p {
+		color: black; 
+		text-align: center;
+		font-size: medium;
+	}
+	h2 {
+		font-size: 193%;
+		color: steelblue;
+		text-align: center;
+	}
+	p.reasons{
+		color: black;
+		text-align: left;
+		font-size: medium;
+	}
+	h3 {
+		font-size: 193%;
+		color: steelblue;
+		text-align: center;
+	}
+	h4 {
+		font-size: 193%;
+		color: steelblue;
+		text-align: center;
+	}
+	p.taysachs{
+		color: black;
+		text-align: left;
+		font-size: medium;
+	}
+	p.ebola{
+		color: black;
+		text-align: left;
+		font-size: medium;
+	}
+	img {
+  		display: block;
+  		margin-left: auto;
+ 		margin-right: auto;
+		 height: 250px;
+	}
+	</style>
+</head>
+
+<body>
+	<h1>Benefits of <a href="https://grants.nih.gov/policy/clinical-trials/definition.htm">Clinical Trials</a></h1>
+	
+	<div></div>
+	
+	<h2>Why Clinical Trials are Important</h2>
+	<p class="reasons">- Discover cures for diseases</p>
+	<div></div>
+	<p class="reasons">- Discover new ways to detect and diagnose diseases</p>
+	<div></div>
+	<p class="reasons">- Determine side affects fo cures</p>
+	<div></div>
+	<p class="reasons">- Can give terminal patients more time/cure them </p>
+	
+	<div></div>
+	
+	
+	
+	<h3>Tay-Sachs Clinical Trials</h3> <img src="https://assets.forwardcdn.com/images/cropped/baby-with-tay-sachs-1492640071.jpg?">
+	<p class="taysachs">Tay-Sachs: A rare genetic disorder that destroys nerves in the brain and spinal chord </p>
+	<p class="taysachs">Ongoing Clinical Trials: <a href="https://www.umassmed.edu/gtc/our-research/tay-sachs-disease/">Gene therapy trials conducted by UMASS,</a> and <a href="http://www.curetay-sachs.org/index.jsp">IntraBio creates drug/potential cure</a></p> 
+	<p class="taysachs">Click <a href="http://www.curetay-sachs.org/index.jsp">here</a> to get more information on Tay-Sachs and available research.</p>
+	
+	
+	<div></div>	
+	
+	<h4>Ebola Clinical Trials</h4> <img src="http://www.nfid.org/idinfo/ebola/ebola-image.jpg">
+	<p class="ebola">Ebola: A virus that causes severe bleeding, organ failure, and can lead to death </p>
+	<p class="ebola">Ongoing Clinical Trials: <a href="https://clinicaltrials.gov/ct2/show/NCT00072605">Trial Vaccine/Potential Cure</a>
+	<p class="ebola"> Click <a href="http://www.nfid.org/idinfo/ebola">here</a> for more information on the disease
+	
+</body>
+	
+	
